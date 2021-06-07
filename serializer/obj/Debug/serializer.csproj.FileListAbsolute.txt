@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\serializer\serializer\bin\Debug\serializer.exe.config
+C:\Users\lenovo\source\repos\serializer\serializer\bin\Debug\serializer.exe
+C:\Users\lenovo\source\repos\serializer\serializer\bin\Debug\serializer.pdb
+C:\Users\lenovo\source\repos\serializer\serializer\obj\Debug\serializer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\serializer\serializer\obj\Debug\serializer.exe
+C:\Users\lenovo\source\repos\serializer\serializer\obj\Debug\serializer.pdb
+C:\Users\lenovo\source\repos\serializer\serializer\obj\Debug\serializer.csproj.AssemblyReference.cache
